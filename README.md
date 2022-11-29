@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Knowledgeable in Data Structure, Algorithm and problem-solving skills with Java. Hard-working web developer with a flair for creating elegant solutions. Well-versed in both Front-End and Back-End development with Laravel(PHP).
 
 * ✉️  You can contact me at [kumarpanjiyara.roshan@gmail.com](mailto:kumarpanjiyara.roshan@gmail.com)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning Full Stack Web Development
 
 ### Skills
 
