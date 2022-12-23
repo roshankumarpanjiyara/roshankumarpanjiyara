@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roshan Kumar Panjiyara
 ==============================================================================================================================================
+[![Github](https://img.shields.io/github/followers/roshankumarpanjiyara?label=Follow&style=social)](https://github.com/roshankumarpanjiyara)
+![Profile Count](https://komarev.com/ghpvc/?username=roshankumarpanjiyara) 
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-100+-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-panjiyara/)
 
 Knowledgeable in Data Structure, Algorithm and problem-solving skills with Java. Hard-working web developer with a flair for creating elegant solutions. Well-versed in both Front-End and Back-End development with Laravel(PHP).
 
@@ -25,8 +28,12 @@ Knowledgeable in Data Structure, Algorithm and problem-solving skills with Java.
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/roshankumarpanjiyara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshankumarpanjiyara&show_icons=true&theme=merko&count_private=false" alt="roshankumarpanjiyara's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumarpanjiyara&theme=merko&layout=compact" alt="roshankumarpanjiyara's github top languages" />
+</a>
 
+<br/>
 <a href="http://www.github.com/roshankumarpanjiyara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumarpanjiyara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/roshankumarpanjiyara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshankumarpanjiyara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
