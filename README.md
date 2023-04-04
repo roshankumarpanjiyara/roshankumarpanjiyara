@@ -5,6 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-100+-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-panjiyara/)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="roshan-kumar-panjiyara" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/roshan-kumar-panjiyara?trk=profile-badge">Roshan Kumar Panjiyara</a></div>
+
 
 Knowledgeable in Data Structure, Algorithm and problem-solving skills with Java. Hard-working web developer with a flair for creating elegant solutions. Well-versed in both Front-End and Back-End development with Laravel(PHP).
 
