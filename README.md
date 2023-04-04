@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Profile Count](https://komarev.com/ghpvc/?username=roshankumarpanjiyara) 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-100+-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-panjiyara/)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 Knowledgeable in Data Structure, Algorithm and problem-solving skills with Java. Hard-working web developer with a flair for creating elegant solutions. Well-versed in both Front-End and Back-End development with Laravel(PHP).
 
 * ✉️  You can contact me at [kumarpanjiyara.roshan@gmail.com](mailto:kumarpanjiyara.roshan@gmail.com)
