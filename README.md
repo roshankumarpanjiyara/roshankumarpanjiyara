@@ -1,43 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roshan Kumar Panjiyara
-==============================================================================================================================================
-[![Github](https://img.shields.io/github/followers/roshankumarpanjiyara?label=Follow&style=social)](https://github.com/roshankumarpanjiyara)
-![Profile Count](https://komarev.com/ghpvc/?username=roshankumarpanjiyara) 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-100+-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-panjiyara/)
+<h1 align="center">Hi 👋, I'm Roshan Kumar Panjiyara</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
 
-<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="roshan-kumar-panjiyara" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/roshan-kumar-panjiyara?trk=profile-badge">Roshan Kumar Panjiyara</a></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumarpanjiyara&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumarpanjiyara" /> </p>
 
+- 🔭 I’m currently working on [Ecommerce Site](https://github.com/roshankumarpanjiyara/E-commerce.git)
 
-Knowledgeable in Data Structure, Algorithm and problem-solving skills with Java. Hard-working web developer with a flair for creating elegant solutions. Well-versed in both Front-End and Back-End development with Laravel(PHP).
+- 🌱 I’m currently learning **JavaScript, Laravel**
 
-* ✉️  You can contact me at [kumarpanjiyara.roshan@gmail.com](mailto:kumarpanjiyara.roshan@gmail.com)
-* 🧠  I'm learning Laravel
+- 👨‍💻 All of my projects are available at [https://github.com/roshankumarpanjiyara](https://github.com/roshankumarpanjiyara)
 
-### Skills
+- 📫 How to reach me **kumarpanjiyara.roshan@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://linkedin.com/in/roshankumarpanjiyara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshankumarpanjiyara" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/roshankumarpanjiyara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshankumarpanjiyara" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/roshanpanziarya055/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshanpanziarya055/profile" height="30" width="40" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.github.com/roshankumarpanjiyara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roshankumarpanjiyara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshankumarpanjiyara&show_icons=true&locale=en&layout=compact" alt="roshankumarpanjiyara" /></p>
 
-### Badges
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankumarpanjiyara&show_icons=true&locale=en" alt="roshankumarpanjiyara" /></p>
 
-<a href="https://github.com/roshankumarpanjiyara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshankumarpanjiyara&show_icons=true&theme=merko&count_private=false" alt="roshankumarpanjiyara's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumarpanjiyara&theme=merko&layout=compact" alt="roshankumarpanjiyara's github top languages" />
-</a>
-
-<br/>
-<a href="http://www.github.com/roshankumarpanjiyara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumarpanjiyara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/roshankumarpanjiyara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshankumarpanjiyara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumarpanjiyara&" alt="roshankumarpanjiyara" /></p>
